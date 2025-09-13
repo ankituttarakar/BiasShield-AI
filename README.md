@@ -17,24 +17,21 @@ BiasShield is a smart bias-detection firewall designed to catch and prevent unin
 ## 📂 Project Structure  
 
 ```sh
-BiasShield/
-├── app.py # Flask API (main entry point)
+Project/
+│── .idea/
+│   ├── inspectionProfiles/
+│   ├── firewall.iml
+│   ├── misc.xml
+│   ├── modules.xml
 │
-├── models/ # AI & ML models
-│ ├── nlp_model.py # NLP-based bias detector
-│ └── ml_model.py # Machine learning classifier
+│── static/
+│   └── (static files go here, e.g., images, CSS, JS)
 │
-├── static/ # Static assets (logo, CSS, images)
-│ └── logo.png
-│
-├── templates/ # HTML templates for UI
-│ └── index.html
-│
-├── tests/ # Unit & integration test cases
-│ └── test_firewall.py
-│
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+│── .gitignore
+│── README.md
+│── bias_model_pipeline.pkl
+│── firewall.py
+
 
 ```
 
