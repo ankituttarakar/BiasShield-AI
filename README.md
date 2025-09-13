@@ -50,13 +50,13 @@ Firewall Decision → Approves, flags, or sends for human review.
 
 # 🛠 Tech Stack
 
-Python + Flask – Backend & API
+- Python + Flask – Backend & API
 
-Transformers (Hugging Face) – NLP models
+- Transformers (Hugging Face) – NLP models
 
-scikit-learn – Machine learning models
+- scikit-learn – Machine learning models
 
-HTML/CSS/JS – Simple UI
+- HTML/CSS/JS – Simple UI
 
 
 # 🤝 Contributing
