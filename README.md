@@ -2,7 +2,7 @@
 
 BiasShield is a smart bias-detection firewall designed to catch and prevent unintentional bias in hiring filters, recruitment platforms, or automated decision-making systems. It combines **rule-based detection** with **NLP/ML models** to ensure fairness in candidate screening.  
 
----
+
 
 ## 🚀 Features  
 
@@ -12,7 +12,7 @@ BiasShield is a smart bias-detection firewall designed to catch and prevent unin
 - 🌐 **REST API** – Exposes an `/api/predict` endpoint to check any hiring request/filter.  
 - 🧑‍💻 **Human-in-the-Loop** – Suspicious cases are flagged for human review instead of auto-blocking.  
 
----
+
 
 ## 📂 Project Structure  
 
