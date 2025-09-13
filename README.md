@@ -39,13 +39,27 @@ BiasShield/
 ```
 
 
----
+# 🧠 How it Works
 
-## ⚙️ Installation  
+Rule-Based Check → Looks for predefined biased terms (gender, age, religion, etc.).
 
-1. **Clone the repo**  
-```bash
-git clone https://github.com/your-username/fairwall.git
-cd fairwall
+NLP/ML Check → Uses AI models to detect contextual or hidden biases.
+
+Firewall Decision → Approves, flags, or sends for human review.
 
 
+# 🛠 Tech Stack
+
+Python + Flask – Backend & API
+
+Transformers (Hugging Face) – NLP models
+
+scikit-learn – Machine learning models
+
+HTML/CSS/JS – Simple UI
+
+
+# 🤝 Contributing
+
+Contributions are welcome!
+Fork the repo, make your changes, and open a Pull Request 
