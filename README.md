@@ -1,6 +1,6 @@
 # 🛡️ BiasShield – Bias-Free Firewall  
 
-FairWall is a smart bias-detection firewall designed to catch and prevent unintentional bias in hiring filters, recruitment platforms, or automated decision-making systems. It combines **rule-based detection** with **NLP/ML models** to ensure fairness in candidate screening.  
+BiasShield is a smart bias-detection firewall designed to catch and prevent unintentional bias in hiring filters, recruitment platforms, or automated decision-making systems. It combines **rule-based detection** with **NLP/ML models** to ensure fairness in candidate screening.  
 
 ---
 
