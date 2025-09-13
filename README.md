@@ -36,14 +36,14 @@ Project/
 ```
 
 
-# 🧠 How it Works
+## 🧠 How it Works
 
-Rule-Based Check → Looks for predefined biased terms (gender, age, religion, etc.).
-NLP/ML Check → Uses AI models to detect contextual or hidden biases.
-Firewall Decision → Approves, flags, or sends for human review.
+- Rule-Based Check : Looks for predefined biased terms (gender, age, religion, etc.).
+- NLP/ML Check : Uses AI models to detect contextual or hidden biases.
+- Firewall Decision : Approves, flags, or sends for human review.
 
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - Python + Flask – Backend & API
 - Transformers (Hugging Face) – NLP models
@@ -51,7 +51,7 @@ Firewall Decision → Approves, flags, or sends for human review.
 - HTML/CSS/JS – Simple UI
 
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 Fork the repo, make your changes, and open a Pull Request 
